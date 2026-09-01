@@ -1,0 +1,8 @@
+{
+  "name": "Agentic  AI",
+  "description": "B2B AI Voice Agent Platform: Add businesses, generate custom voice bots, send interactive demo outreach emails, test live voice conversations with real-time speech, and monitor owner call logs & lead analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
